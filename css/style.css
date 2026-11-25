@@ -877,3 +877,30 @@ a.game-card:focus-visible {
   color: var(--text);
   filter: brightness(1.08);
 }
+
+.btn-android {
+  background: #2a3142;
+  border-color: #6b7a9a;
+  color: #e8e6de;
+}
+.btn-android:hover { filter: brightness(1.1); color: #fff; }
+
+/* Page confidentialité */
+.legal-wrap { max-width: 720px; }
+.legal h1 {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: clamp(32px, 5vw, 48px);
+  letter-spacing: -0.03em;
+  margin: 0 0 18px;
+}
+.legal-lead { font-size: 18px; color: var(--muted); margin: 0 0 28px; }
+.legal h2 {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 26px;
+  margin: 28px 0 10px;
+}
+.legal p, .legal li { color: var(--text); line-height: 1.55; }
+.legal ul { margin: 0 0 16px; padding-left: 1.2em; }
+.legal li { margin: 0 0 8px; }

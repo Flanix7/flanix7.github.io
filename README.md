@@ -26,9 +26,11 @@ Puis ouvre [http://localhost:8080](http://localhost:8080).
 - Captures : menu v0.3.3, visio, chambre, porte, anomalies, judas.
 - Vidéo : `assets/video/EN_VISIO_gameplay.mp4` (gameplay v3).
 - Téléchargement Windows :
-  [téléchargement Windows](https://github.com/Flanix7/en-visio/releases/latest/download/EN_VISIO_Windows.zip)
-  (une copie stable de la dernière release ; les autres versions sont sur GitHub).
-- Le jeu se met à jour tout seul : garder le `.exe` et le `.pck` dans le même dossier.
+  [EN_VISIO_Windows.zip](https://github.com/Flanix7/en-visio/releases/latest/download/EN_VISIO_Windows.zip)
+- Téléchargement Android (APK, installation à la main) :
+  [EN_VISIO_Android.apk](https://github.com/Flanix7/en-visio/releases/latest/download/EN_VISIO_Android.apk)
+- Page confidentialité : `confidentialite.html` (site + Epic Online Services).
+- Sur Windows, le jeu se met à jour tout seul : garder le `.exe` et le `.pck` dans le même dossier.
 
 Réseaux : [Twitch flanix7](https://twitch.tv/flanix7) et
 [TikTok @flanix7_](https://www.tiktok.com/@flanix7_).
