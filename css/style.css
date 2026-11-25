@@ -861,3 +861,19 @@ a.game-card:focus-visible {
   filter: brightness(1.08);
 }
 #soutenir { scroll-margin-top: 86px; }
+
+/* Discord — retours et idées, branding FLX violet/rose */
+.btn-discord {
+  background: transparent;
+  border: 1px solid rgba(192, 132, 252, 0.55);
+  color: var(--text);
+  background-image: linear-gradient(90deg, rgba(168, 85, 247, 0.18), rgba(236, 72, 153, 0.18));
+  text-align: center;
+  line-height: 1.25;
+  white-space: normal;
+}
+.btn-discord:hover {
+  border-color: rgba(244, 114, 182, 0.95);
+  color: var(--text);
+  filter: brightness(1.08);
+}
