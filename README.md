@@ -26,7 +26,8 @@ Puis ouvre [http://localhost:8080](http://localhost:8080).
 - Captures : menu v0.3.3, visio, chambre, porte, anomalies, judas.
 - Vidéo : `assets/video/EN_VISIO_gameplay.mp4` (gameplay v3).
 - Téléchargement Windows :
-  [dernière release GitHub](https://github.com/Flanix7/en-visio/releases/latest).
+  [téléchargement Windows](https://github.com/Flanix7/en-visio/releases/latest/download/EN_VISIO_Windows.zip)
+  (une copie stable de la dernière release ; les autres versions sont sur GitHub).
 - Le jeu se met à jour tout seul : garder le `.exe` et le `.pck` dans le même dossier.
 
 Réseaux : [Twitch flanix7](https://twitch.tv/flanix7) et

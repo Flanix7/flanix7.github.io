@@ -484,6 +484,12 @@ a.game-card:focus-visible {
   color: var(--muted);
   font-size: 14.5px;
 }
+.dl-more {
+  margin: 8px 0 0;
+  font-size: 13.5px;
+}
+.dl-more a { color: var(--muted); text-decoration: none; }
+.dl-more a:hover { color: var(--text); }
 .iphone-note { color: var(--muted-2); font-size: 13.5px; }
 
 .video-block { padding-top: 12px; }
