@@ -1,0 +1,26 @@
+{
+  "studio": "Flanix Games",
+  "author": "Allan Perez",
+  "handle": "flanix7",
+  "links": {
+    "twitch": "https://twitch.tv/flanix7",
+    "tiktok": "https://www.tiktok.com/@flanix7_"
+  },
+  "games": [
+    {
+      "id": "en-visio",
+      "title": "EN VISIO",
+      "tagline": "La même réunion. Encore. Et encore.",
+      "summary": "Tu es assis à ton bureau, en appel vidéo avec tes collègues. Tout a l’air normal. Enfin… presque.",
+      "url": "jeux/en-visio.html",
+      "cover": "assets/img/en-visio/cover.webp",
+      "icon": "assets/img/en-visio/icon.png",
+      "year": 2026,
+      "platforms": ["PC (Windows)"],
+      "tags": ["Horreur", "Anomalies", "Observation"],
+      "status": "available",
+      "statusLabel": "PC Windows",
+      "download": "https://github.com/Flanix7/en-visio/releases/latest"
+    }
+  ]
+}
