@@ -11,15 +11,15 @@
       "id": "en-visio",
       "title": "EN VISIO",
       "tagline": "La même réunion. Encore. Et encore.",
-      "summary": "Tu es assis à ton bureau, en appel vidéo avec tes collègues. Tout a l’air normal. Enfin… presque.",
+      "summary": "Tu es assis à ton bureau, en appel vidéo avec tes collègues. Tout a l’air normal. Enfin… presque. v0.5.1 : le chapitre 2 t’attend à l’hôpital Saint-Aubin.",
       "url": "jeux/en-visio.html",
       "cover": "assets/img/en-visio/cover.webp",
       "icon": "assets/img/en-visio/icon.png",
       "year": 2026,
-      "platforms": ["PC (Windows)"],
+      "platforms": ["PC (Windows)", "Android"],
       "tags": ["Horreur", "Anomalies", "Observation"],
       "status": "available",
-      "statusLabel": "PC Windows",
+      "statusLabel": "PC Windows et Android",
       "download": "https://github.com/Flanix7/en-visio/releases/latest/download/EN_VISIO_Windows.zip"
     }
   ]
