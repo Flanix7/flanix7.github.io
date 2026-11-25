@@ -29,7 +29,7 @@ Puis ouvre [http://localhost:8080](http://localhost:8080).
   [EN_VISIO_Windows.zip](https://github.com/Flanix7/en-visio/releases/latest/download/EN_VISIO_Windows.zip)
 - Téléchargement Android (APK, installation à la main) :
   [EN_VISIO_Android.apk](https://github.com/Flanix7/en-visio/releases/latest/download/EN_VISIO_Android.apk)
-- Version actuelle : **v0.5.2**, avec le chapitre 2 (hôpital Saint-Aubin) et une alerte de mise à jour sur Android.
+- Version actuelle : **v0.6.0**, avec deux nouveaux modes en ligne (Traître, Entité nomade), le chapitre 2 (hôpital Saint-Aubin) et une alerte de mise à jour sur Android.
 - Page confidentialité : `confidentialite.html` (site + Epic Online Services).
 - Sur Windows, le jeu se met à jour tout seul : garder le `.exe` et le `.pck` dans le même dossier.
 
