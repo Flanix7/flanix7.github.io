@@ -137,22 +137,32 @@
       "status": "available",
       "channels": {
         "stable": {
-          "version": "0.5.0",
+          "version": "0.6.0",
           "date": "2026-11-26",
-          "url": "https://github.com/Flanix7/flx-hub/releases/download/oriflamme-v0.5.0/Oriflamme_Windows.zip",
-          "size": 55231933,
-          "install_size": 126973214,
-          "sha256": "3ea94891b36a86634002a508ba7ecaa8e81e877ba481778b102c5b6e322329f0",
-          "exe": "Oriflamme/Oriflamme.exe",
+          "url": "https://github.com/Flanix7/flx-hub/releases/download/oriflamme-v0.6.0/Oriflamme_Windows_v0.6.zip",
+          "size": 56776299,
+          "install_size": 128810956,
+          "sha256": "182d63d855841e1fde286db97bab59ab00104d7f5b9dd82ecf5e60ce78fa5072",
+          "exe": "Oriflamme_v0.6/Oriflamme.exe",
           "args": [],
           "changelog": [
-            "Style peint : ville fortifiée, ciel cartoon, VFX d'armes et de capacités.",
-            "Planeur et corbeau retravaillés, beffroi audible sur toute l'île.",
-            "Modes Solo, Duo, Trio et Squad, hors ligne contre des bots."
+            "Île 1,75× plus grande, 3 nouvelles villes (Hautemure, Marchebourg, Cité portuaire), jusqu’à 48 joueurs",
+            "15 armes (poudre, arbalètes, arcs, magie, mêlée), visée, recul, vrais sons CC0",
+            "Mouvement plus rapide (sprint, glissade, escalade), touches remappables, préréglages graphiques"
           ]
         }
       },
       "news": [
+        {
+          "version": "0.6.0",
+          "date": "2026-11-26",
+          "title": "Version 0.6.0",
+          "items": [
+            "Île 1,75× plus grande, 3 nouvelles villes (Hautemure, Marchebourg, Cité portuaire), jusqu’à 48 joueurs",
+            "15 armes (poudre, arbalètes, arcs, magie, mêlée), visée, recul, vrais sons CC0",
+            "Mouvement plus rapide (sprint, glissade, escalade), touches remappables, préréglages graphiques"
+          ]
+        },
         {
           "version": "0.5.0",
           "date": "2026-11-26",
