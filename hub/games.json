@@ -137,22 +137,32 @@
       "status": "available",
       "channels": {
         "stable": {
-          "version": "0.7.0",
+          "version": "0.7.1",
           "date": "2026-11-26",
-          "url": "https://github.com/Flanix7/flx-hub/releases/download/oriflamme-v0.7.0/Oriflamme_Windows_v0.7.0.zip",
-          "size": 59244823,
-          "install_size": 131352931,
-          "sha256": "f42c911357e7aa6fe222a4e0c3a7052b0523eed4609ec292161e2127b166bb26",
-          "exe": "Oriflamme_v0.7.0/Oriflamme.exe",
+          "url": "https://github.com/Flanix7/flx-hub/releases/download/oriflamme-v0.7.1/Oriflamme_Windows_v0.7.1.zip",
+          "size": 59259694,
+          "install_size": 131367747,
+          "sha256": "deacece8f0e75a3a92069ba730174a802772933ac166f94e837553d0882dd0c4",
+          "exe": "Oriflamme_v0.7.1/Oriflamme.exe",
           "args": [],
           "changelog": [
-            "Ressenti refait : caméra à l’épaule lissée, souris brute, saut constant, animations synchronisées, bots plus naturels",
-            "25 armes aux noms originaux, sons 100 % enregistrés CC0 (pas selon le sol, ambiances)",
-            "Vraie carte : relief, rivières et lac, routes et ponts, maisons à fouiller, repères (phare, pierres levées, ruines)"
+            "ATH entièrement refait : vie et armure, capacités en anneaux de recharge, armes et munitions, mini-carte ronde avec minuteur de brume",
+            "Fil des éliminations, compteur en vie / éliminations, objectif, viseur et marqueurs de touche, nombres de dégâts, invites et messages repensés",
+            "Les touches affichées dans l'ATH suivent tes réglages de commandes"
           ]
         }
       },
       "news": [
+        {
+          "version": "0.7.1",
+          "date": "2026-11-26",
+          "title": "Version 0.7.1",
+          "items": [
+            "ATH entièrement refait : vie et armure, capacités en anneaux de recharge, armes et munitions, mini-carte ronde avec minuteur de brume",
+            "Fil des éliminations, compteur en vie / éliminations, objectif, viseur et marqueurs de touche, nombres de dégâts, invites et messages repensés",
+            "Les touches affichées dans l'ATH suivent tes réglages de commandes"
+          ]
+        },
         {
           "version": "0.7.0",
           "date": "2026-11-26",
