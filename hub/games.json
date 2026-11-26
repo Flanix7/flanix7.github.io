@@ -137,22 +137,32 @@
       "status": "available",
       "channels": {
         "stable": {
-          "version": "0.6.0",
+          "version": "0.7.0",
           "date": "2026-11-26",
-          "url": "https://github.com/Flanix7/flx-hub/releases/download/oriflamme-v0.6.0/Oriflamme_Windows_v0.6.zip",
-          "size": 56776299,
-          "install_size": 128810956,
-          "sha256": "182d63d855841e1fde286db97bab59ab00104d7f5b9dd82ecf5e60ce78fa5072",
-          "exe": "Oriflamme_v0.6/Oriflamme.exe",
+          "url": "https://github.com/Flanix7/flx-hub/releases/download/oriflamme-v0.7.0/Oriflamme_Windows_v0.7.0.zip",
+          "size": 59244823,
+          "install_size": 131352931,
+          "sha256": "f42c911357e7aa6fe222a4e0c3a7052b0523eed4609ec292161e2127b166bb26",
+          "exe": "Oriflamme_v0.7.0/Oriflamme.exe",
           "args": [],
           "changelog": [
-            "Île 1,75× plus grande, 3 nouvelles villes (Hautemure, Marchebourg, Cité portuaire), jusqu’à 48 joueurs",
-            "15 armes (poudre, arbalètes, arcs, magie, mêlée), visée, recul, vrais sons CC0",
-            "Mouvement plus rapide (sprint, glissade, escalade), touches remappables, préréglages graphiques"
+            "Ressenti refait : caméra à l’épaule lissée, souris brute, saut constant, animations synchronisées, bots plus naturels",
+            "25 armes aux noms originaux, sons 100 % enregistrés CC0 (pas selon le sol, ambiances)",
+            "Vraie carte : relief, rivières et lac, routes et ponts, maisons à fouiller, repères (phare, pierres levées, ruines)"
           ]
         }
       },
       "news": [
+        {
+          "version": "0.7.0",
+          "date": "2026-11-26",
+          "title": "Version 0.7.0",
+          "items": [
+            "Ressenti refait : caméra à l’épaule lissée, souris brute, saut constant, animations synchronisées, bots plus naturels",
+            "25 armes aux noms originaux, sons 100 % enregistrés CC0 (pas selon le sol, ambiances)",
+            "Vraie carte : relief, rivières et lac, routes et ponts, maisons à fouiller, repères (phare, pierres levées, ruines)"
+          ]
+        },
         {
           "version": "0.6.0",
           "date": "2026-11-26",
