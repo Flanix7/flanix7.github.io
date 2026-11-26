@@ -231,25 +231,36 @@
       "status": "available",
       "channels": {
         "stable": {
-          "version": "0.2.0",
+          "version": "0.3.0",
           "date": "2026-11-26",
-          "url": "https://github.com/Flanix7/flx-hub/releases/download/le-dernier-regne-v0.2.0/LeDernierRegne_Windows.zip",
-          "size": 47724578,
-          "install_size": 119478521,
-          "sha256": "ba929abf446ffbc3da3b1f1e83cd643f5d8cef413e32d298b08cf7c41f835f67",
+          "url": "https://github.com/Flanix7/flx-hub/releases/download/le-dernier-regne-v0.3.0/LeDernierRegne_Windows.zip",
+          "size": 48892251,
+          "install_size": 120863335,
+          "sha256": "fb95ce3a1a57b0caf94da5ba448fb4ff05d68106101a011b5b1bee5b38ba6d46",
           "exe": "LeDernierRegne/LeDernierRegne.exe",
           "args": [],
           "changelog": [
-            "Combats plus lents et plus lisibles (environ +45 % de durée).",
-            "Le fief a maintenant des points de vie : les ennemis qui l'atteignent lui infligent des dégâts.",
-            "Nouveaux personnages pixel art animés (marche, attaque, coup, mort), contours, ombres et chiffres de dégâts.",
-            "Cartes refaites : cadres par rareté, illustrations, statistiques claires, animations.",
-            "Nouveaux décors, météo et braises, bannières et transitions, secousses d'écran.",
-            "Nouveaux sons en couches et 4 musiques d'ambiance (Kevin MacLeod, CC BY 4.0), réglages de volume."
+            "Musique corrigée : les boucles sont plus fortes, les volumes par défaut sont relevés (les anciens réglages sont remplacés) et la musique se relance toute seule si elle s'arrête.",
+            "16 nouvelles cartes : lanciers, arbalétriers, alchimistes, veilleurs, caravaniers, parieurs, éclaireurs, remparts, chapelles, catapultes, tours ardentes, bannières, tambours, rituels, collectes et primes.",
+            "Bazar des Ombres : aux ans III, VI, VIII, XI et XIV, un étal de cartes rares à acheter avec votre or, avec relance de l'étal et prix qui montent à chaque achat.",
+            "6 cartes légendaires (champion, archimage, colosse d'or, bombarde, obélisque, couronne) uniquement vendues dans la vitrine du Bazar.",
+            "Difficulté rééquilibrée par 96 parties automatiques (environ une victoire sur deux)."
           ]
         }
       },
       "news": [
+        {
+          "version": "0.3.0",
+          "date": "2026-11-26",
+          "title": "Version 0.3.0",
+          "items": [
+            "Musique corrigée : les boucles sont plus fortes, les volumes par défaut sont relevés (les anciens réglages sont remplacés) et la musique se relance toute seule si elle s'arrête.",
+            "16 nouvelles cartes : lanciers, arbalétriers, alchimistes, veilleurs, caravaniers, parieurs, éclaireurs, remparts, chapelles, catapultes, tours ardentes, bannières, tambours, rituels, collectes et primes.",
+            "Bazar des Ombres : aux ans III, VI, VIII, XI et XIV, un étal de cartes rares à acheter avec votre or, avec relance de l'étal et prix qui montent à chaque achat.",
+            "6 cartes légendaires (champion, archimage, colosse d'or, bombarde, obélisque, couronne) uniquement vendues dans la vitrine du Bazar.",
+            "Difficulté rééquilibrée par 96 parties automatiques (environ une victoire sur deux)."
+          ]
+        },
         {
           "version": "0.2.0",
           "date": "2026-11-26",
